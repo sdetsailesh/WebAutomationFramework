@@ -1,3 +1,4 @@
+/*
 package org.example.pages;
 
 import org.openqa.selenium.By;
@@ -19,3 +20,4 @@ public class ExceptionPage {
         driver.findElement(add).click();
     }
 }
+*/
